@@ -1,6 +1,6 @@
 {
- "version": "0.2.130",
- "url": "https://github.com/Mikcpikc/intimeroute-releases/releases/download/v0.2.130/IntimeRoute-0.2.130.apk",
- "note": "CI: po buildu objavi APK (release) in version.json v javni repo intimeroute-releases (posodobitev iz aplikacije)",
- "date": "2026-10-07T10:07:38Z"
+ "version": "0.2.131",
+ "url": "https://github.com/Mikcpikc/intimeroute-releases/releases/download/v0.2.131/IntimeRoute-0.2.131.apk",
+ "note": "Nastavitve: ime aplikacije ob verziji (preizkus samodejne posodobitve)",
+ "date": "2026-10-07T10:24:23Z"
 }
