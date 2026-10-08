@@ -1,6 +1,6 @@
 {
- "version": "0.2.135",
- "url": "https://github.com/Mikcpikc/intimeroute-releases/releases/download/v0.2.135/IntimeRoute-0.2.135.apk",
- "note": "Zvocno opozorilo: predvajanje po kanalu budilke + piski, nov kanal obvestil, preizkus iz nastavitev",
- "date": "2026-10-08T12:34:47Z"
+ "version": "0.2.136",
+ "url": "https://github.com/Mikcpikc/intimeroute-releases/releases/download/v0.2.136/IntimeRoute-0.2.136.apk",
+ "note": "Prevzem: posiljamo tezo (Weight) - brez polja je TM tezo povozil na 0",
+ "date": "2026-10-08T13:03:41Z"
 }
