@@ -1,6 +1,6 @@
 {
- "version": "0.2.139",
- "url": "https://github.com/Mikcpikc/intimeroute-releases/releases/download/v0.2.139/IntimeRoute-0.2.139.apk",
- "note": "Prevzem: uspesen prevzem (1 korak) vedno prikaze paketi+nalepke, ne povzetka",
- "date": "2026-10-08T13:26:14Z"
+ "version": "0.2.140",
+ "url": "https://github.com/Mikcpikc/intimeroute-releases/releases/download/v0.2.140/IntimeRoute-0.2.140.apk",
+ "note": "Prevzem (en zaslon): koda citalnika v opombi se prestreze kot sken; stepper in NI PREVZETO brez fokusa",
+ "date": "2026-10-08T13:27:35Z"
 }
