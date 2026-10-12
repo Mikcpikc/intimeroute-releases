@@ -1,6 +1,6 @@
 {
- "version": "0.2.160",
- "url": "https://github.com/Mikcpikc/intimeroute-releases/releases/download/v0.2.160/IntimeRoute-0.2.160.apk",
- "note": "CI: sprosti shrambo - pobrisi artefakte prejsnjih gradenj",
- "date": "2026-10-11T08:21:29Z"
+ "version": "0.2.161",
+ "url": "https://github.com/Mikcpikc/intimeroute-releases/releases/download/v0.2.161/IntimeRoute-0.2.161.apk",
+ "note": "NUJNO: popravek sesutja ob zagonu (0.2.160) - napacen vrstni red inicializacije",
+ "date": "2026-10-12T06:55:32Z"
 }
