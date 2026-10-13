@@ -1,6 +1,6 @@
 {
- "version": "0.2.161",
- "url": "https://github.com/Mikcpikc/intimeroute-releases/releases/download/v0.2.161/IntimeRoute-0.2.161.apk",
- "note": "NUJNO: popravek sesutja ob zagonu (0.2.160) - napacen vrstni red inicializacije",
- "date": "2026-10-12T06:55:32Z"
+ "version": "0.2.162",
+ "url": "https://github.com/Mikcpikc/intimeroute-releases/releases/download/v0.2.162/IntimeRoute-0.2.162.apk",
+ "note": "Nacrt poti: hitrost glede na dolzino odseka (ura zakljucka je bila prepozna)",
+ "date": "2026-10-13T07:33:13Z"
 }
