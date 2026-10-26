@@ -1,6 +1,6 @@
 {
- "version": "0.2.177",
- "url": "https://github.com/Mikcpikc/intimeroute-releases/releases/download/v0.2.177/IntimeRoute-0.2.177.apk",
- "note": "Razklad: gumb na domacem zaslonu in vezava zaslona",
- "date": "2026-10-26T09:49:22Z"
+ "version": "0.2.178",
+ "url": "https://github.com/Mikcpikc/intimeroute-releases/releases/download/v0.2.178/IntimeRoute-0.2.178.apk",
+ "note": "Slika ob dostavi: posiljamo TransportOrderId namesto OrderID",
+ "date": "2026-10-26T12:18:05Z"
 }
