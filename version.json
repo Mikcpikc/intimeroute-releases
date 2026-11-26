@@ -1,6 +1,6 @@
 {
- "version": "0.2.202",
- "url": "https://github.com/Mikcpikc/intimeroute-releases/releases/download/v0.2.202/IntimeRoute-0.2.202.apk",
- "note": "Vzeti paketi se po pojavu v TM pokazejo kot obicajni postanki",
- "date": "2026-11-26T08:30:22Z"
+ "version": "0.2.203",
+ "url": "https://github.com/Mikcpikc/intimeroute-releases/releases/download/v0.2.203/IntimeRoute-0.2.203.apk",
+ "note": "Preverjanje vzetih paketov v refresh; preskoci preklicane",
+ "date": "2026-11-26T08:40:21Z"
 }
